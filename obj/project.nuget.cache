@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8dCSrgU9As=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TCcccc\\Island\\Island.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TCcccc\\.nuget\\packages\\audioswitcher.audioapi\\3.0.0\\audioswitcher.audioapi.3.0.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\audioswitcher.audioapi.coreaudio\\3.0.3\\audioswitcher.audioapi.coreaudio.3.0.3.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio\\2.2.0\\naudio.2.2.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio.asio\\2.2.0\\naudio.asio.2.2.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio.core\\2.2.0\\naudio.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio.midi\\2.2.0\\naudio.midi.2.2.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio.wasapi\\22.0.0\\naudio.wasapi.22.0.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio.winforms\\2.2.0\\naudio.winforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\naudio.winmm\\2.2.0\\naudio.winmm.2.2.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\system.codedom\\10.0.14\\system.codedom.10.0.14.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\system.management\\10.0.14\\system.management.10.0.14.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\TCcccc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows10.0.19041”还原包“AudioSwitcher.AudioApi 3.0.0”。此包可能与项目不完全兼容。",
+      "projectPath": "C:\\Users\\TCcccc\\Island\\Island.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\TCcccc\\Island\\Island.csproj",
+      "libraryId": "AudioSwitcher.AudioApi",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows10.0.19041”还原包“AudioSwitcher.AudioApi.CoreAudio 3.0.3”。此包可能与项目不完全兼容。",
+      "projectPath": "C:\\Users\\TCcccc\\Island\\Island.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\TCcccc\\Island\\Island.csproj",
+      "libraryId": "AudioSwitcher.AudioApi.CoreAudio",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041.0"
+      ]
+    }
+  ]
+}

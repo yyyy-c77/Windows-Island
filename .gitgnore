@@ -1,0 +1,14 @@
+# 编译输出
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 临时文件
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+
+# 发布文件夹
+publish/
